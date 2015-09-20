@@ -7,7 +7,7 @@ public class FloxService implements IService {
 	public function saveGoToMainCount(count:int):void {
 		// Crimea is blocked. 403 error
 		// Крым заблокирован, а терять время на настройку VPN на роутере не хотелось бы, будем считать что данные уходят туда
-		Flox.logEvent("go_main_clicked", {count: count});
+		Flox.logEvent("went_to_main", {count: count});
 	}
 
 	public function saveGoToIntroClick():void {
