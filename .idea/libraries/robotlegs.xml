@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="robotlegs" type="flex">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://I:/distr/internet/flash_tools/robotlegs/2/src/robotlegs" />
+    </SOURCES>
+    <jarDirectory url="file://I:/distr/internet/flash_tools/robotlegs/2/src/robotlegs" recursive="false" type="SOURCES" />
+  </library>
+</component>

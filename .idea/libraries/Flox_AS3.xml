@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Flox-AS3" type="flex">
+    <CLASSES>
+      <root url="jar://I:/distr/internet/flash_tools/flox-as3-1.3/Flox-AS3.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="feathers" type="flex">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://I:/distr/internet/flash_tools/feathers/source/feathers" />
+    </SOURCES>
+    <jarDirectory url="file://I:/distr/internet/flash_tools/feathers/source/feathers" recursive="false" type="SOURCES" />
+  </library>
+</component>

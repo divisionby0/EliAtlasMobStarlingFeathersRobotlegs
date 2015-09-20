@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="Flex" version="4">
+  <component name="FlexBuildConfigurationManager" active="EliAtlasMobStarlingFeathersRobotlegs">
+    <configurations>
+      <configuration name="EliAtlasMobStarlingFeathersRobotlegs" target-platform="Mobile" pure-as="true" main-class="EliAtlasMobStarlingFeathersRobotlegs" output-file="EliAtlasMobStarlingFeathersRobotlegs.swf" output-folder="$MODULE_DIR$/out/production/EliAtlasMobStarlingFeathersRobotlegs">
+        <dependencies target-player="11.5">
+          <entries>
+            <entry library-name="src" library-level="application">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="robotlegs-framework-v2.2.1" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+            <entry library-name="Flox-AS3" library-level="project">
+              <dependency linkage="Merged" />
+            </entry>
+          </entries>
+          <sdk name="4.13.0" />
+        </dependencies>
+        <compiler-options />
+        <packaging-air-desktop />
+        <packaging-android enabled="true" use-generated-descriptor="false" custom-descriptor-path="$MODULE_DIR$/EliAtlasMobStarlingFeathersRobotlegs-app.xml" package-file-name="EliAtlasMobStarlingFeathersRobotlegs" />
+        <packaging-ios package-file-name="EliAtlasMobStarlingFeathersRobotlegs" />
+      </configuration>
+    </configurations>
+    <compiler-options />
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="4.13.0" jdkType="Flex SDK Type (new)" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="src" level="application" />
+    <orderEntry type="library" exported="" name="robotlegs-framework-v2.2.1" level="project" />
+    <orderEntry type="library" exported="" name="Flox-AS3" level="project" />
+  </component>
+</module>

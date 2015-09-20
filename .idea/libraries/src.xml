@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="src" type="flex">
+    <CLASSES>
+      <root url="file://I:/distr/internet/flash_tools/starling/Gamua-Starling-Framework-110c2a5/starling/src" />
+      <root url="jar://I:/distr/internet/flash_tools/starling/Gamua-Starling-Framework-110c2a5/starling/bin/starling.swc!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
